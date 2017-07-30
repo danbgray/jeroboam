@@ -2,7 +2,8 @@ Jeroboam
 --------
 
 A python microframework composed of interchangable modules.
-* Under heavy development.  Master will be updated once we have a stable release!
+
+* Not yet to alpha release.
 
 
 jer·o·bo·am  (jĕr′ə-bō′əm) 
