@@ -1,2 +1,2 @@
-# jeroboam
+# Jeroboam
 A python microframework
