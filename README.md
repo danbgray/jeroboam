@@ -1,6 +1,6 @@
 # Jeroboam
 
-A python microframework
+A python microframework composed of interchangable modules.
 
 jer·o·bo·am  (jĕr′ə-bō′əm) 
 n. [ref](http://www.thefreedictionary.com/jeroboam)
