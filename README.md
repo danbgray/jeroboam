@@ -1,4 +1,7 @@
 # Jeroboam
+
+A python microframework
+
 jer·o·bo·am  (jĕr′ə-bō′əm) 
 n. [ref](http://www.thefreedictionary.com/jeroboam)
 1. A wine bottle holding 3 liters (approximately 0.8 gallon) of sparkling wine.
@@ -6,5 +9,5 @@ n. [ref](http://www.thefreedictionary.com/jeroboam)
 
 
 
-A python microframework
+
 
